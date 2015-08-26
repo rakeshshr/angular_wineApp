@@ -32,4 +32,6 @@ angular.module('wineApp', [])
         });
     };
 
+    //make a full crud
+
   }]);
